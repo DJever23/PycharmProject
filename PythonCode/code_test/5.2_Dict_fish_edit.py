@@ -21,3 +21,4 @@ for day,day_record in fish_records.items():
         amounts+=sub_record[0]*sub_record[1]
         print('%s数量%d,单价%.2f元'%(name,sub_record[0],sub_record[1]))
 print('钓鱼总数量为%d,总金额为%.2f元'%(nums,amounts))
+#print(fish_records,d_date1,d_date3)
