@@ -33,4 +33,4 @@ for day,day_record in fish_records.items():
     nums+=day_nums
     amount+=day_amount
 print('---------统计结果打印-----------')
-print('钓鱼总数量为%d,总金额为%.2f元'%(nums,amount))            
+print('钓鱼总数量为%d,总金额为%.2f元'%(nums,amount))
